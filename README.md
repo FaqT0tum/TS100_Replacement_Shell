@@ -5,7 +5,7 @@
 ![](PIC/photo2.jpeg)
 ![](PIC/photo3.jpeg)
 
-Based on the original drawing by BogdanTheGeek (Thingiverse): https://www.thingiverse.com/thing:3365107
+Based on the original drawing by BogdanTheGeek [Thingiverse](https://www.thingiverse.com/thing:3365107)
 
 ## Printing parameters
 
