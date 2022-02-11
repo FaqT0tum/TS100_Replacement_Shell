@@ -4,3 +4,11 @@
 ![](PIC/photo1.jpeg)
 ![](PIC/photo2.jpeg)
 ![](PIC/photo3.jpeg)
+
+## Printing parameters
+
+- Nozzle: <= 0.4
+- Infill: 100%
+- Layer: <= 0.15
+- Raft: No
+- Support: No
